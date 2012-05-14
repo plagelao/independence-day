@@ -1,5 +1,5 @@
 ##Why?##
-A while ago I read the [object on rails book][1] (which I recommend you).
+A while ago I read the [object on rails book][1] (which I recommend to you).
 This is based on the ideas from the book.
 
 ##What?##

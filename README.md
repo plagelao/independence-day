@@ -1,4 +1,4 @@
-![Build Status](https://secure.travis-ci.org/plagelao/independence-day.png?branch=master)
+![Build Status](https://secure.travis-ci.org/plagelao/independence-day.png?branch=master) ![Gems Status](https://gemnasium.com/plagelao/independence-day)
 
 ##Why?##
 A while ago I read the [object on rails book][1] (which I recommend to you).

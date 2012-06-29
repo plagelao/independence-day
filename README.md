@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/plagelao/independence-day.png?branch=master)][travis] [![Dependency Status](https://gemnasium.com/plagelao/independence-day.png?travis)][gemnasium]
+![Build Status](https://secure.travis-ci.org/plagelao/independence-day.png?branch=master)
 
 ##Why?##
 A while ago I read the [object on rails book][1] (which I recommend to you).
